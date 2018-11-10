@@ -1,43 +1,43 @@
 		>> de
 Angebot wiedereinstellen
 		>> en
-Sell again
+Put this item for sale again
 
 
 		>> de
 Angebot bearbeiten
 		>> en
-Edit item
+Edit this item
 
 
 		>> de
 Aus dem Verkauf nehmen
 		>> en
-Take off sale
+Take this item off sale
 
 
 		>> de
 Ähnlichen Artikel verkaufen
 		>> en
-Sell similar
+Sell a similar item
 
 
 		>> de
 Anzeigendetails
 		>> en
-Details
+Item details
 
 
 		>> de
 Startzeit
+		>> en
+Starting time
 
 
 		>> de
 Letzte Änderung
-
-
-		>> de
-Nicht eingestellt
+		>> en
+Last edit
 
 
 		>> de
@@ -242,6 +242,18 @@ Visits
 Kontakt mit Verkäufer aufnehmen
 		>> en
 Contact the seller
+
+
+		>> de
+Wollen Sie den angebotenen Artikel kaufen?<br>
+Setzen Sie sich mit dem Verkäufer in Verbindung und vereinbaren Sie gemeinsam die Transaktion.<br>
+<br>
+Bitte nutzen Sie die aufgelisteten Kontaktdaten oder unser Kontaktformular, um den Verkäufer zu kontaktieren.
+		>> en
+Are you interested in the offered item?<br>
+Contact the seller and arrange the transaction together.<br>
+<br>
+Please use the listed contact details or make use of our provided contact form to start the conversation with the seller.
 
 
 		>> de
