@@ -1,21 +1,31 @@
 		>> de
 Angebot wiedereinstellen
+		>> en
+Sell again
 
 
 		>> de
 Angebot bearbeiten
+		>> en
+Edit item
 
 
 		>> de
 Aus dem Verkauf nehmen
+		>> en
+Take off sale
 
 
 		>> de
 Ähnlichen Artikel verkaufen
+		>> en
+Sell similar
 
 
 		>> de
 Anzeigendetails
+		>> en
+Details
 
 
 		>> de
@@ -31,19 +41,21 @@ Nicht eingestellt
 
 
 		>> de
-Verkauft
-
-
-		>> de
 Aktiv
+		>> en
+Active
 
 
 		>> de
 Statistik
+		>> en
+Stats
 
 
 		>> de
 Besucher
+		>> en
+Visitors
 
 
 		>> de
@@ -72,6 +84,8 @@ Available
 
 		>> de
 Nicht eingestellt
+		>> en
+Not listed for sale
 
 
 		>> de
@@ -190,6 +204,8 @@ Misc
 
 		>> de
 Rückgabe und Garantie
+		>> en
+Return and warranty
 
 
 		>> de
@@ -266,27 +282,35 @@ Your phone number
 
 		>> de
 Eine Kopie der Nachricht wird zur Bestätigung an die von Ihnen angegebene E-Mail Adresse gesendet.
+		>> en
+A copy of your message will be sent to the e-mail address you provided for confirmation.
 
 
 		>> de
 Herzlichen Glückwunsch!
+		>> en
+Congratulations!
 
 
 		>> de
-Rückgabe und Garantie
+Der Absendername ist obligatorisch.\nBitte geben Sie Ihren Namen ein, damit der Verkäufer weiß, wie er Sie ansprechen soll!
+		>> en
+The sender name is mandatory.\nPlease enter your name so the seller knows how to address you!
 
 
 		>> de
-Der Absendername ist obligatorisch.\nBitte geben Sie Ihren Namen ein, damit der Verkäufer weiß, wie er Sie ansprechen soll.
+Bitte geben eine Nachricht an den Verkäufer ein!
+		>> en
+Please enter a message to the seller!
 
 
 		>> de
-Bitte geben eine Nachricht an den Verkäufer ein.
+Bitte geben Sie Ihre E-Mail Adresse ein, damit Sie der Verkäufer zurück kontaktieren kann!
+		>> en
+Please enter your e-mail address so that the seller can respond to you!
 
 
 		>> de
-Bitte geben Sie Ihre E-Mail Adresse ein, damit Sie der Verkäufer zurück kontaktieren kann.
-
-
-		>> de
-Es gab einen Fehler beim Versenden Ihrer Nachricht, bitte versuchen Sie es erneut oder kontaktieren Sie den Verkäufer anderweitig.
+Es gab einen Fehler beim Versenden Ihrer Nachricht, bitte versuchen Sie es erneut oder kontaktieren Sie den Verkäufer anderweitig!
+		>> en
+An error occurred wile sending your message, please try again or contact the seller otherwise!
